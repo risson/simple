@@ -17,7 +17,7 @@ body {
     padding: 20px 0 10px 0;
 	border-bottom: 2px dashed #888;
     margin: 0 0 10px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: Verdana, Geneva, sans-serif;
 }
 #title:hover {
     border: 0;
@@ -39,10 +39,10 @@ body {
 }
 a {
 	text-decoration: none;
-	color: #E93071;
+	color: #318d46;
 }
 a:hover {
-	border-bottom: 1px solid #E93071;
+	border-bottom: 1px solid #ce5f54;
 }
 .selected {
 	color: black;
